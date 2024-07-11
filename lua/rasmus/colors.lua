@@ -3,7 +3,7 @@ local M = {}
 M.dark = {
   -- Basic
   bg = "#1a1a19",
-  fg = "#d1d1d1",
+  fg = "#b1b1b1",
   -- Normal
   black = "#333332",
   red = "#ff968c",
@@ -12,7 +12,7 @@ M.dark = {
   blue = "#8db4d4",
   magenta = "#de9bc8",
   cyan = "#7bb099",
-  white = "#d1d1d1",
+  white = "#b1b1b1",
   -- Bright
   bright_black = "#4c4c4b",
   bright_red = "#ffafa5",
@@ -37,7 +37,7 @@ M.dark = {
 M.monochrome = {
   -- Basic
   bg = "#1a1a19",
-  fg = "#d1d1d1",
+  fg = "#b1b1b1",
   -- Normal
   black = "#333332",
   red = "#c5c5c5",
@@ -46,7 +46,7 @@ M.monochrome = {
   blue = "#B3B3B3",
   magenta = "#bcbcbc",
   cyan = "#B3B3B3",
-  white = "#d1d1d1",
+  white = "#efefef",
   -- Bright
   bright_black = "#4c4c4b",
   bright_red = "#d2d2d2",
